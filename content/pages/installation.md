@@ -101,10 +101,10 @@ Plugins for **BuildStream 2**:
    [documentation](https://buildstream.gitlab.io/bst-plugins-container/),
    [PyPI package](https://pypi.org/project/bst-plugins-container/),
    [GitLab project](https://gitlab.com/BuildStream/bst-plugins-container)
- * **bst-plugins-experimental**:
-   [documentation](https://buildstream.gitlab.io/bst-plugins-experimental),
-   [PyPI package](https://pypi.org/project/bst-plugins-experimental/),
-   [GitLab project](https://gitlab.com/BuildStream/bst-plugins-experimental)
+ * **buildstream-plugins-community**:
+   [documentation](https://buildstream.gitlab.io/buildstream-plugins-community),
+   [PyPI package](https://pypi.org/project/buildstream-plugins-community/),
+   [GitLab project](https://gitlab.com/BuildStream/buildstream-plugins-community)
 
 Plugins for **BuildStream 1**:
 
