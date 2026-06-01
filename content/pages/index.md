@@ -36,7 +36,7 @@ BuildStream 2 in place of BuildStream 1.
 For a period of transition, we understand that users will need to use both BuildStream 1
 and BuildStream 2 in parallel, this can be done in various ways, such as using containers,
 or installing these into separate python virtual environments, as explained in the
-[install page](installation.html)
+[install page](https://docs.buildstream.build/master/main_install.html)
 
 ## Who is using BuildStream?
 
@@ -101,7 +101,7 @@ for details.
 
 ## How do I get BuildStream?
 
-See our [install page](installation.html) for details.
+See our [install page](https://docs.buildstream.build/master/main_install.html) for details.
 
 ## How do I get involved?
 
