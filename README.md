@@ -9,7 +9,7 @@ This repository provides the source for the main website of The Apache Software 
   - **ezmd** pages in a combination of [ezt](https://github.com/gstein/ezt/blob/wiki/Syntax.md) and GFM.
   - **html** files are treated as static files.
   - Static assets of all types.
-  - .htaccess files for redirection and rewrite rules.
+  - **.htaccess** files for redirection and rewrite rules.
 
 - [Issues](https://github.com/apache/buildstream-site/issues)
 
